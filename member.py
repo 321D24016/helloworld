@@ -1,4 +1,4 @@
-ver = "0.2"
+ver = "0.3"
 
 class Member:
     def __init__(self, name, words=""):
